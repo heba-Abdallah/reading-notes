@@ -1,22 +1,15 @@
 # reading-notes
 
-## growth mindset
+## My name is Heba essam Abdallah
 
-***In the words of Dweck:***
-> “A growth mindset is when students understand that their abilities can be developed,”
-> 
-*with a growth mindset believe that one can always:*
-- improve
-- catch up
-- or even surpass others’ natural talents.
+**I studied communication engineer at BAU**
 
-![Growth Mindset vs Fixed Mindset](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR1pyuzFHKclSy7nQhx8UbixaRdWrJPZP0vg&usqp=CAU)
-
-~~How i can Develop a Growth Mindset~~
-- [ ] Work on developing new habit
-- [ ] Embrace challenges
-- [ ] Become curious
-- [ ] Learn from other people’s mistakes
-
-**My Name Is HEBA ESSAM I'm 28 Years Old  I studied communication engineer at BAU** :+1: 
 [heba-Abdallah](https://github.com/heba-Abdallah)
+
+| Assignment    | Link |
+| ----------- | ----------- |
+| Read 1      | [The Coder's Computer](read1.md)          |
+| Lab 2       | [Lab 2](lab02.md)                         |
+| Read 02a    | [Learning Markdown](rd02a.md)             |
+| Read 02b    | [Revisions and the Cloud](read3.md)       |
+|Read 3       | [Structure web pages with HTML](read3.md) |
