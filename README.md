@@ -30,7 +30,7 @@
 | Read 05     | [HTML Images; CSS Color & Text](201/read05.md)                                  |
 | Read 06     | [JS Object Literals; The DOM](201/read06.md)                                    |
 | Read 07     | [HTML Tables; JS Constructor Functions](201/read07.md)                          |
-| Read 08     | [-------------------------](201/read08.md)                                      |
+| Read 08     | [More CSS Layout](201/read08.md)                                                |
 | Read 09     | [-------------------------](201/read09.md)                                      |
 | Read 10     | [-------------------------](201/read10.md)                                      |
 | Read 11     | [-------------------------](201/read11.md)                                      |
