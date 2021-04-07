@@ -32,7 +32,7 @@
 | Read 07     | [HTML Tables; JS Constructor Functions](201/read07.md)                          |
 | Read 08     | [More CSS Layout](201/read08.md)                                                |
 | Read 09     | [Forms and Events](201/read09.md)                                               |
-| Read 10     | [-------------------------](201/read10.md)                                      |
+| Read 10     | [JS Debugging](201/read10.md)                                                   |
 | Read 11     | [-------------------------](201/read11.md)                                      |
 | Read 12     | [-------------------------](201/read12.md)                                      |
 | Read 13     | [-------------------------](201/read13.md)                                      |
