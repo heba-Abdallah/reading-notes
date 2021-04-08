@@ -33,7 +33,7 @@
 | Read 08     | [More CSS Layout](201/read08.md)                                                |
 | Read 09     | [Forms and Events](201/read09.md)                                               |
 | Read 10     | [JS Debugging](201/read10.md)                                                   |
-| Read 11     | [-------------------------](201/read11.md)                                      |
+| Read 11     | [Assorted Topics](201/read11.md)                                                |
 | Read 12     | [-------------------------](201/read12.md)                                      |
 | Read 13     | [-------------------------](201/read13.md)                                      |
 | Read 14a    | [-------------------------](201/read14a.md)                                     |
