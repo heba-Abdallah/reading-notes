@@ -34,7 +34,7 @@
 | Read 09     | [Forms and Events](201/read09.md)                                               |
 | Read 10     | [JS Debugging](201/read10.md)                                                   |
 | Read 11     | [Assorted Topics](201/read11.md)                                                |
-| Read 12     | [Docs for the HTML <canvas> Element & Chart.js](201/read12.md)                  |
+| Read 12     | [Chart.js, Canvas](201/read12.md)                                               |
 | Read 13     | [-------------------------](201/read13.md)                                      |
 | Read 14a    | [-------------------------](201/read14a.md)                                     |
 | Read 14b    | [-------------------------](201/read14b.md)                                     |
