@@ -35,7 +35,6 @@
 | Read 10     | [JS Debugging](201/read10.md)                                                   |
 | Read 11     | [Assorted Topics](201/read11.md)                                                |
 | Read 12     | [Chart.js, Canvas](201/read12.md)                                               |
-| Read 13     | [Local Storage](201/read13.md)                                                  |
+| Read 13a    | [Local Storage](201/read13a.md)                                                 |
 | Read 13b    | [CSS Transforms, Transitions, and Animations](201/read13b.md)                   |
-| Read 14a    | [-------------------------](201/read14a.md)                                     |
-| Read 14b    | [-------------------------](201/read14b.md)                                     |
+| Read 14     | [What Google Learned About Teams](201/read14.md)                                |
