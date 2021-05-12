@@ -7,6 +7,7 @@
 [heba-Abdallah](https://github.com/heba-Abdallah)
 
 ### Code 102 Reading Notes
+#### Code 102 - Intro to Software Development
 
 | Assignment  | Link                                          |
 | ----------- | --------------------------------------------- |
@@ -20,6 +21,7 @@
 | Read 6      | [Design web pages with CSS](102/read06.md)    |
 
 ### Code 201 Reading Notes
+#### Code 201 - Foundations of Software Development
 
 | Assignment  | Link                                                                            |
 | ----------- | ----------------------------------------------                                  |
@@ -38,3 +40,31 @@
 | Read 13a    | [Local Storage](201/read13a.md)                                                 |
 | Read 13b    | [CSS Transforms, Transitions, and Animations](201/read13b.md)                   |
 | Read 14     | [What Google Learned About Teams](201/read14.md)                                |
+
+### Code 301 Reading Notes
+#### Code 301 - Intermediate Software Development
+
+| Assignment  | Link                                           |
+| ----------- | ---------------------------------------------- |
+| Read 01     |                                                |
+| Read 02     |                                                |
+| Read 03     |                                                |
+| Read 04     |                                                |
+| Read 05     |                                                |
+| Read 06     |                                                |
+| Read 07     |                                                |
+| Read 08     |                                                |
+
+### Code 401 Reading Notes
+#### Code 401 - Advanced Software Development
+
+| Assignment  | Link                                           |
+| ----------- | ---------------------------------------------- |
+| Read 01     |                                                |
+| Read 02     |                                                |
+| Read 03     |                                                |
+| Read 04     |                                                |
+| Read 05     |                                                |
+| Read 06     |                                                |
+| Read 07     |                                                |
+| Read 08     |                                                |
