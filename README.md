@@ -44,16 +44,16 @@
 ### Code 301 Reading Notes
 #### Code 301 - Intermediate Software Development
 
-| Assignment  | Link                                           |
-| ----------- | ---------------------------------------------- |
-| Read 01     |                                                |
-| Read 02     |                                                |
-| Read 03     |                                                |
-| Read 04     |                                                |
-| Read 05     |                                                |
-| Read 06     |                                                |
-| Read 07     |                                                |
-| Read 08     |                                                |
+| Assignment  | Link                                                      |
+| ----------- | ----------------------------------------------            |
+| Read 01     |[Introduction to React and Components](301/read01.md)      |
+| Read 02     |[------------------------------------](301/read02.md)      |
+| Read 03     |[------------------------------------](301/read03.md)      |
+| Read 04     |[------------------------------------](301/read04.md)      |
+| Read 05     |[------------------------------------](301/read05.md)      |
+| Read 06     |[------------------------------------](301/read06.md)      |
+| Read 07     |[------------------------------------](301/read07.md)      |
+| Read 08     |[------------------------------------](301/read08.md)      |
 
 ### Code 401 Reading Notes
 #### Code 401 - Advanced Software Development
