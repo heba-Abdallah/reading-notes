@@ -51,7 +51,7 @@
 | Read 03     |[Passing Functions as Props](301/read03.md)                |
 | Read 04     |[React and Forms](301/read04.md)                           |
 | Read 05     |[Putting it all together](301/read05.md)                   |
-| Read 06     |[------------------------------------](301/read06.md)      |
+| Read 06     |[NODE.JS](301/read06.md)                                   |
 | Read 07     |[------------------------------------](301/read07.md)      |
 | Read 08     |[------------------------------------](301/read08.md)      |
 
