@@ -52,7 +52,7 @@
 | Read 04     |[React and Forms](301/read04.md)                           |
 | Read 05     |[Putting it all together](301/read05.md)                   |
 | Read 06     |[NODE.JS](301/read06.md)                                   |
-| Read 07     |[------------------------------------](301/read07.md)      |
+| Read 07     |[REST and API Keys](301/read07.md)                         |
 | Read 08     |[------------------------------------](301/read08.md)      |
 
 ### Code 401 Reading Notes
