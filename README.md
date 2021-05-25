@@ -53,7 +53,12 @@
 | Read 05     |[Putting it all together](301/read05.md)                   |
 | Read 06     |[NODE.JS](301/read06.md)                                   |
 | Read 07     |[REST and API Keys](301/read07.md)                         |
-| Read 08     |[APIs](301/read08.md)                                      |
+| Read 07     |[REST and API Keys](301/read07.md)                         |
+| Read 09     |[APIs](301/read09.md)                                      |
+| Read 10     |[FUNCTIONAL PROGRAMMING](301/read10.md)                    |
+| Read 11     |[-----------------------](301/read11.md)                   |
+| Read 12     |[-----------------------](301/read12.md)                   |
+
 
 ### Code 401 Reading Notes
 #### Code 401 - Advanced Software Development
