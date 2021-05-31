@@ -58,6 +58,9 @@
 | Read 10     |[In memory storage](301/read10.md)                         |
 | Read 11     |[Authentication](301/read11.md)                            |
 | Read 12     |[Mongo and Mongoose](301/read12.md)                        |
+| Read 13     |[CRUD](301/read13.md)                                      |
+| Read 14     |[------------------](301/read14.md)                        |
+
 
 
 ### Code 401 Reading Notes
